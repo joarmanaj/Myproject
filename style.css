@@ -1,6 +1,13 @@
+h1{
+    color: white;
+}
 body{
-    background-color: brown;
+    background-color: rgb(130, 63, 63);
+    font-style: italic;
 }
 p{
-    background-color: goldenrod;
+    color: rgb(248, 234, 199);
+    font-style: normal;
+    font-weight: 300;
+    text-decoration: aqua;
 }
